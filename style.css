@@ -1779,6 +1779,7 @@ body {
 
 /* line 28, sass/layout/_header.scss */
 .main-navigation {
+  /* position: fixed; */
   float: right; }
   /* line 30, sass/layout/_header.scss */
   .main-navigation .toggle-menu {
