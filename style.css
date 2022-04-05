@@ -2460,6 +2460,12 @@ body {
 .event-carousel {
   margin-bottom: 70px; }
 
+  .event-carousel img{
+    height: 115px;
+    width: 117px;
+    margin: 10px;
+  }
+
 /* line 173, sass/pages/_homepage.scss */
 .event-nav {
   float: right; }
