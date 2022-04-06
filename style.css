@@ -2744,3 +2744,45 @@ body {
         color: #fd5927; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
+
+/* styling for about.html page */
+
+#blog_text h2{
+  color: rgb(253, 252, 252);
+  font-size: 2em;
+  /* font-weight: 00px; */
+}
+
+#blog_text p{
+  color: rgb(245, 233, 233);
+  font-size: 1em;
+  font-family: 'Noto Serif', serif;
+}
+
+#btn1{
+  margin: 10px 25px 10px 180px;
+  /* margin: 0 auto; */
+  text-decoration: none;
+}
+#btn1:hover{
+  background-color: rgb(87, 214, 193);
+}
+
+.about-section{
+  background-color: #171717;
+}
+
+/* <!-- Our Projects  --> */
+
+.projects{
+  background-color: #171717;
+}
+
+.projects h2{
+  color:rgb(253, 252, 252);
+  /* margin: 0 auto; */
+  
+}
