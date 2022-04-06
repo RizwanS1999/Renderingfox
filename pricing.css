@@ -1,0 +1,40 @@
+.h h3{
+    text-align: center;
+    /* font-family: 'Times New Roman', Times, serif; */
+    font-size: 3rem;
+    font-weight: 500;
+    text-decoration: underline;
+    color: #FFFFFF;
+    letter-spacing: 3px;
+    text-underline-position: under;
+    /* text-decoration-style:wavy ; */
+    
+}
+
+.Offer h2{
+    text-align: center;
+    color: #ff0505;
+    border: 1px solid whitesmoke;
+    border-radius: 50%;
+    background: rgb(230, 230, 28);
+    font-size: 3.1rem;
+    font-weight: 600;
+    
+}
+h4{
+    color: #FFFFFF;
+    font-weight: 700;
+    letter-spacing: 22px;
+    font-size: 2.5rem;
+}
+
+.cards .card{
+    background: rgb(253, 253, 253);
+}
+
+.card h1{
+    text-align: center;
+    color:black;
+    font-size: 2rem;
+    font-weight: 700;
+}
