@@ -21,11 +21,12 @@
     font-weight: 600;
     
 }
-h4{
-    color: #FFFFFF;
+.type{
+    color: #faf5f5;
     font-weight: 700;
     letter-spacing: 22px;
-    font-size: 10rem;
+    font-size: 500px;
+
     text-align: center;
 }
 
@@ -47,6 +48,7 @@ h4{
     background-color: #ffffff;
     align-items: center;
     border-radius: 30px;
+    margin: 30px auto;
 
    
 }
@@ -64,6 +66,7 @@ h4{
     box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
     z-index: 3;
     border-color: #ff0000 !important;
+    background: #FFD700 !important;
 }
 
 .cover{
@@ -88,4 +91,7 @@ h4{
 
 .card-d{
     margin-top: 100px;
+}
+.black-card{
+    min-height: fit-content;
 }
