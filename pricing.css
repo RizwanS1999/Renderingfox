@@ -21,12 +21,11 @@
     font-weight: 600;
     
 }
-.type p{
+.type .render_type{
     color: #faf5f5;
-    font-weight: 700;
+    font-weight: 400;
     letter-spacing: 22px;
-    font-size: 500px;
-
+    font-size: 4.5rem;
     text-align: center;
 }
 
