@@ -261,7 +261,7 @@ table {
 
 /* line 1, sass/libs/_global.scss */
 body {
-  background-color: #141414;
+  /* background-color: #141414; */
   color: #848484;
   font-family: "Source Sans Pro", "Open Sans", sans-serif;
   font-size: 16px;
@@ -1862,7 +1862,7 @@ body {
         opacity: 0;
         border-left: 4px solid transparent;
         border-right: 4px solid transparent;
-        border-bottom: 4px solid #fd5927;
+        /* border-bottom: 4px solid #fd5927; */
         -webkit-transition: .3s ease;
                 transition: .3s ease; }
       /* line 75, sass/layout/_header.scss */

@@ -1,7 +1,8 @@
 .card
 {
     background-color: whitesmoke;
-    margin-top: 25px;
+    /* margin-top: 25px; */
+    /* padding-top: 25px; */
     border-radius: 20px;
 }
 .card h1{
@@ -10,24 +11,48 @@
     text-decoration: underline;
     font-weight: 600;
 }
-.card h3{
+.card h2{
     text-align: center;
     font-family: 'Anek Telugu', sans-serif;
-    font-weight: 500;
+    text-decoration: underline;
+    font-weight: 600;
+}
+.card h1{
+    text-align: center;
+    font-family: 'Anek Telugu', sans-serif;
+    text-decoration: underline;
+    font-weight: 600;
+}
+
+.card h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 560;
     
 }
-.main_content{
+/* .main_content{
     background-color: #171717;
-}
+} */
 
 .card p{
     font-family: 'Noto Serif', serif;
+    /* font-family: 'Times New Roman', Times, serif; */
     text-align: center;
     font-weight: 550;
-    font-size: 15px;
-    padding-top: 25px;
+    font-size: 17px;
+    /* padding-top: 25px; */
 
 }
-body{
+.site-header
+{
     background-color: #171717;
+}
+
+.bg
+{
+    background-color: #1b1b1b;
+}
+
+a:hover{
+    color: black;
 }
