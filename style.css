@@ -2745,6 +2745,43 @@ body {
 
 /*# sourceMappingURL=style.css.map */
 
+#fp1{
+  font-weight: 600;
+  margin-top: 30px;
+  
+}
+
+#fp1:hover{
+  color: whitesmoke;
+}
 
 
+.comp a{
+  color: rgb(62,61,62);
+  text-decoration: none;
+  font-size: 1.2rem;
+ 
+}
+.ha1{
+  margin-bottom: 20px;
+}
 
+.comp a:hover{
+  color: whitesmoke;
+}
+
+.comp h2{
+  margin-bottom: 50px;
+  margin-top: 25px;
+  color: rgb(204, 203, 204);
+  font-weight: 700;
+}
+
+.comp h2:hover{
+  color: whitesmoke;
+}
+
+
+.ha2{
+  margin-bottom: 10px;
+}
